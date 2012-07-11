@@ -94,7 +94,7 @@
               "if_list": [ "?1g1" ]
             },
             "intf1": {
-              "if_list": [ "?1g1" ]
+              "if_list": [ "1g3" ]
             },
             "intf2": {
               "if_list": [ "?1g1" ]
